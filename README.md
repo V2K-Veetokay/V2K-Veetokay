@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since August, 2025<br>📚 I'm currently learning Computer Science<br>🎯 Goals: Make my own OS<br>🎲 Fun fact: My idol is Linus Torvalds</p>
+<p align="left">✨ Creating bugs since August, 2025<br>📚 I'm currently learning Computer Science<br>🎯 Goals: Make my own OS<br>🎲 Fun fact: My admire is Linus Torvalds</p>
 
 ###
 
